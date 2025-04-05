@@ -94,7 +94,7 @@ if st.button("find my answer"):
             st.success(response)
 
     else:
-        st.warning("Please enter the question")
+        st.warning("Please enter the questions")
 
 
 
